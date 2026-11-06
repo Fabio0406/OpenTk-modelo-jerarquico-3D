@@ -1,0 +1,7 @@
+
+# Secretos y archivos generados (no subir)
+bin/
+obj/
+.vs/
+packages/
+*.user
